@@ -1,0 +1,32 @@
+<!DOCTYPE BodyXML>
+<Body>
+ <Version>1</Version>
+ <Width>70</Width>
+ <Height>80</Height>
+ <BodyColor>#fafafa</BodyColor>
+ <ShirtColor>#e6e6e6</ShirtColor>
+ <TrouserColor>#646464</TrouserColor>
+ <ShoesColor>#323232</ShoesColor>
+ <UseJacket>1</UseJacket>
+ <Jacket>
+  <Length>50</Length>
+  <Width>10</Width>
+  <Gap>50</Gap>
+  <Color>#2a2a2a</Color>
+ </Jacket>
+ <Arms>
+  <Length>50</Length>
+  <Width>15</Width>
+  <Sleeves>2</Sleeves>
+ </Arms>
+ <Legs>
+  <Length>64</Length>
+  <Width>20</Width>
+  <Trousers>2</Trousers>
+  <Hips>43</Hips>
+ </Legs>
+ <Feet>
+  <Height>14</Height>
+  <Width>19</Width>
+ </Feet>
+</Body>
