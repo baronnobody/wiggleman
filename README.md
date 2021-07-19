@@ -11,3 +11,8 @@ You can also export your own definitions for editing later.
 There are also some example outputs.
 
 ![An example sprite sheet](https://github.com/baronnobody/wiggleman/blob/main/examples/sheets/magpie_walk374_449.png)
+
+## Running
+Download the releases from the releases section.
+
+Extract, and run *wiggleman.exe*.
