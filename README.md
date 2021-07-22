@@ -1,5 +1,5 @@
 # wiggleman
-A program to generate rocedural sprite-sheets for 2d animations.
+A program to generate procedural sprite-sheets for 2d animations.
 
 Wiggleman utilises Qt and basic drawing functionality to create sprite sheets of varying lengths and sizes.
 Allows easy customisation for game characters (assuming this style) without hand-animating every character.
